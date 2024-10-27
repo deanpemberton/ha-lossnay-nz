@@ -1,0 +1,12 @@
+{
+    "name": "Mitsubishi Lossnay",
+    "content_in_root": false,
+    "domains": [
+        "lossnay"
+    ],
+    "country": [
+        "NZ"
+    ],
+    "homeassistant": "2021.11.0",
+    "iot_class": "Cloud Polling"
+}
