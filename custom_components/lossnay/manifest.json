@@ -1,10 +1,15 @@
-
 {
   "domain": "lossnay",
   "name": "Mitsubishi Lossnay",
   "version": "1.0.0",
-  "documentation": "https://github.com/YOUR_USERNAME/lossnay",
-  "requirements": ["requests", "paho-mqtt"],
+  "documentation": "https://github.com/deanpemberton/ha-lossnay-nz",
+  "requirements": [
+    "requests",
+    "paho-mqtt"
+  ],
   "dependencies": [],
-  "codeowners": ["@YOUR_GITHUB_USERNAME"]
+  "config_flow": true,
+  "codeowners": [
+    "@YOUR_GITHUB_USERNAME"
+  ]
 }
