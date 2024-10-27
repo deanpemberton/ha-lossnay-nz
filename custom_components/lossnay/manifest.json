@@ -1,9 +1,9 @@
 
 {
   "domain": "lossnay",
-  "name": "Mitsubishi Lossnay",
+  "name": "Mitsubishi Lossnay NZ",
   "version": "1.0.0",
-  "documentation": "https://github.com/YOUR_USERNAME/lossnay",
+  "documentation": "https://github.com/YOUR_USERNAME/ha-lossnay-nz",
   "requirements": ["requests", "paho-mqtt"],
   "dependencies": [],
   "config_flow": true,
